@@ -12,4 +12,5 @@ body {
   /*background: radial-gradient(closest-side, #4fa1ee, #01071f);*/
   background-image: url("./assets/background_2.jpeg");
   background-size: 100%;
+  background-attachment: fixed;
 }

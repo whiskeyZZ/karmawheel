@@ -10,9 +10,14 @@
     </div>
   </div>
   <div #fade_answer class="show">
-    <p class="answers" (click)="nextQuestion()">{{ first_answer }}</p>
-    <p class="answers" (click)="nextQuestion()">{{ second_answer }}</p>
-    <p class="answers" (click)="nextQuestion()">{{ third_answer }}</p>
-    <p class="answers" (click)="nextQuestion()">{{ fourth_answer }}</p>
+    <p class="answers" (click)="nextQuestion(1)">{{ first_answer }}</p>
+    <p class="answers" (click)="nextQuestion(2)">{{ second_answer }}</p>
+    <p class="answers" (click)="nextQuestion(3)">{{ third_answer }}</p>
+    <p class="answers" (click)="nextQuestion(4)">{{ fourth_answer }}</p>
+  </div>
+  <div #fade_rebirth class="hide">
+    <h2>{{ rebirth }}</h2>
+    <img [src]="rebirth_image" />
+    <p class="rebirth_text">{{ rebirth_text }}</p>
   </div>
 </div>

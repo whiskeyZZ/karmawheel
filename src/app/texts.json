@@ -18,6 +18,104 @@
         "Meine Seele ist für das Gute bestimmt. Der Teufel hat keine Macht über mich",
         "Ich lache ihn aus und zeige ihm den Mittelfinger"
       ]
+    },
+    {
+      "question": "Du entdeckst eine bis dato unbekannte Insel im Südpazifik und gründest dort dein eigenes Land. Für welches Gesellschaftssystem entscheidest du dich als dessen Grundlage?",
+      "answer": [
+        "Angloamerikanischer Kapitalismus",
+        "Anarchismus",
+        "Demokratischer Sozialismus",
+        "Faschismus"
+      ]
+    },
+    {
+      "question": "Die Anführer der monotheistischen Religionen geraten in einen gewaltreichen Disput darüber, ob Gott Liebe und Freude oder Mitgefühl und Vergebung personifiziert. Welche Seite nimmst du ein?",
+      "answer": [
+        "Christentum",
+        "Islam",
+        "Judentum",
+        "Ich wähle keine Seite. Liebe für sie alle"
+      ]
+    },
+    {
+      "question": "Was glaubst du, wie wird das Universum enden?",
+      "answer": [
+        "Das Universum wird sich immer weiter ausdehnen, bis alle Sterne erloschen sind. Am Ende gibt es nur eiskalte, leere Schwärze",
+        "Das Universum wird zu einem einzigen schwarzen Loch. Gott weiß, was darin ist",
+        "Die Expansion des Weltalls wird sich umkehren und alles wird einem einzigen Punkt zustreben. Dann wird es einen neuen Urknall geben. Zeit und Raum werden wiedergeboren",
+        "Das Universum wird nie enden. Es war schon immer und wird immer sein"
+      ]
+    },
+    {
+      "question": "Als Mensch bist du in der prekären Lage, um deine eigene Sterblichkeit zu wissen. Welcher dieser Gedanken lässt dich mit deiner Sterblichkeit Frieden schließen?",
+      "answer": [
+        "Ich werde an einen besseren Ort kommen und meine verstorbenen Lieben wieder sehen",
+        "Ich werde zu Nährstoff für die Pflanzen und gehe so wieder in den Kreislauf des Lebens ein",
+        "Ich werde in das absolute Nichts übergehen, doch das bedeutet auch das Ende aller Schmerzen und Sorgen",
+        "Ich werde mit der Seele des Universums verschmelzen"
+      ]
+    },
+    {
+      "question": "Das Universum schweigt auf all deine Fragen standhaft. Findest du dennoch den Sinn deines Lebens?",
+      "answer": [
+        "Das Leben hat keinen Sinn, außer dem den ich ihm selbst gebe",
+        "Das Leben ist absolut sinnlos und Existenz an sich ist ein Unglück",
+        "Das Leben mag keinen Sinn haben, aber genau das ist die Grundlage unserer Freiheit. Willst du die Katze streicheln?",
+        "Der Sinn des Lebens ist, die Schönheit der Welt zu erfahren. Ich finde Sinn in meinem spirituellen/religiösen Pfad"
+      ]
+    },
+    {
+      "question": "Partytime! Volles Haus, laute Musik und viel Alkohol, wie verhältst du dich?",
+      "answer": [
+        "Alle Augen auf mich, Bitches!",
+        "Wo ist die Bar? Ich will mich abschießen",
+        "Ich tue so als hätte ich Spaß, aber ich will nur wieder nach Hause",
+        "Party? Nein danke, Ich würde eine Blinddarmoperation vorziehen"
+      ]
+    },
+    {
+      "question": "Du besteigst eine Zeitmaschine mit den Taschen voller Weed. Mit wem in der Kiffer Runde würdest du den Joint am liebsten kreisen lassen?",
+      "answer": [
+        "Albert Einstein, Isaac Newton und Charles Darwin",
+        "Jesus, Buddha und Laotse",
+        "Julius Cäsar, Alexander der Große und Dschingis Khan",
+        "Leonardo da Vinci, Michelangelo und Salvador Dalí"
+      ]
+    },
+    {
+      "question": "Deine Zeitmaschine crasht in der Schweiz der fünfziger Jahre. Die örtlichen Uhrmacher brauchen einen Nachmittag, um sie wieder zu reparieren. Was unternimmst du in der Zwischenzeit?",
+      "answer": [
+        "Ich trinke Wein mit Hermann Hesse",
+        "Ich nehme LSD mit Albert Hoffmann",
+        "Ich lege mich bei C G Jung auf die Couch",
+        "Ich fahre rüber nach Saint Tropez und date Marilyn Monroe"
+      ]
+    },
+    {
+      "question": "Hass ist ein Teil des Menschseins, doch auch der Zerstörerischste. Wie gehst du mit deinem Hass um?",
+      "answer": [
+        "Mein Hass gibt mir Kraft! Diese Hurensöhne verdienen es, gehasst zu werden!",
+        "Ich trage Hass in mir, doch ich bemühe mich, gemäß den besseren Teilen meines Wesens zu handeln",
+        "Hass hört durch Liebe auf. Seit dem ich nicht mehr hasse bin ich frei und empfinde Mitgefühl für jeden",
+        "Ich hasse keinen Menschen, sie sind mir einfach egal. Ich lasse nicht zu, dass irgendjemand meine innere Ruhe stört"
+      ]
+    },
+    {
+      "question": "Die alten Schriften sagen, dass die Engel aus Musik geboren wurden. Welche Musik spielen die Engel an der Himmelspforte, um die Neuankömmlinge zu begrüßen?",
+      "answer": [
+        "Requiem von Mozart",
+        "Mondlichtsonate von Beethoven",
+        "Ave Maria von Schubert",
+        "Life Goes On von 2Pac"
+      ]
     }
-  ]
+  ],
+  "cholera": "Du bist egoistisch, rücksichtslos und hinterhältig. Du führst einen parasitären Lebensstil und verschwendest keinen Gedanken an deine Mitmenschen, der darüber hinausgeht, wie du von ihnen profitieren kannst. In deiner nächsten Wiedergeburt kannst du deinen miesen Charakter voll und ganz ausleben und als tödlicher Krankheitserreger deinem Sadismus frönen. Es gibt keinen Grund, dich dabei zurückzuhalten, denn schlechter kann dein Karma eh nicht mehr werden.",
+  "Höllenwesen": "Schlechte Nachrichten! Du wirst in der Hölle wiedergeboren wo du grausame und kreative Strafen über dich ergehen lassen musst. Der Erde selbst graut es vor den Untaten, die du in diesem Leben begangen hast und Dämonen werden sich viele Zeitalter lang an deinem Fleisch laben. Doch es ist noch nicht aller Tage Abend. Nachdem du ausreichend gebüßt hast, wirst du dazu bereit sein, in bessere Daseinsbereiche aufzusteigen.",
+  "Mensch": "Dich erwartet die seltenste aller Wiedergeburten. Du hast die Lehre, die dir das Universum in deinem Leben vermittelt will, nicht vollständig begriffen, doch die Wege des Karmas beehren dich erneut mit dem Geschenk und der Last eines menschlichen Lebens. Die Geburt als Mensch birgt die größte Chance, das Rad der Wiedergeburten zu verlassen und auf den Pfaden der Weisheit zu wandeln. Nutze diese wertvolle und rare Möglichkeit, die dir ein zweites Mal eröffnet wird.",
+  "Katze": "Deine Seele ist rein, verspielt und stark. Du bist für deine Mitmenschen wie der Sonnenschein und wirst als das Tier wiedergeboren werden, das dem Himmel am nächsten ist. Dich erwartet eine Wiedergeburt voller Abenteuer, zufriedenem Schnurren und Streicheleinheiten. Dank deiner sanften Art, die du in diesem Leben ausstrahlst, wirst du dein nächstes Leben auf Samtpfoten verbringen und, wer weiß, vielleicht schaffst du mit ihnen sogar den Sprung ins Nirwana.",
+  "Oktopus": "Du bist hochintelligent, geheimnisvoll und einzelgängerisch und diese Wesenszüge werden sich in deiner nächsten Wiedergeburt voll entfalten. Du wirst als Oktopus durch die Tiefsee streifen und die unendliche Weite und das unendliche Alleinsein genießen. Abgeschieden von allem, sind allein deine neun Gehirne deine Companions, an deren philosophischen Gedanken du dich erfreust. Als Mitglied der intelligentesten Spezies des Planeten löst du alle drängenden Fragen der Naturwissenschaft und der Philosophie, nur triffst du leider nie auf jemanden, dem du dies mitteilen könntest.",
+  "Ochse": "Du bist gutmütig, jedoch auch gedankenlos bis an die Grenze des Stumpfsinns. Selbstständiges Denken erscheint dir als eine Last, die du dir nur zu gerne abnehmen lässt. Du kommst nicht auf die Idee, aus der Herde auszuscheren, denn wenn es alle machen, wird es schon richtig sein. Das alles prädestiniert dich für eine Wiedergeburt als Ochse, in der du deine Zeit ganz mit kauen und schlafen verbringen kannst. Du wirst von der Plage des Intellekts befreit und kannst voll und ganz deinem Herdentrieb folgen, ohne das Ansätze von Individualität dir dazwischen funken.",
+  "Tukan": "Du bist kreativ, bunt und lebensfroh. Du trägst immer ein Lächeln im Gesicht und liebst es, die Menschen um dich herum zu unterhalten. Du bist ein lustiger Paradiesvogel und somit wirst du in deiner nächsten Wiedergeburt als Tukan durch den Regenwald fliegen und deine Lockrufe an jeden richten, der Lust auf einen kleinen Balztanz hat. Dein nächstes Leben wird ziemlich sorgenfrei, doch habe ein wachsames Auge auf die Jaguare.",
+  "Nirwana": "Herzlichen Glückwunsch! Nach vielen Äonen und unzähligen Wiedergeburten ist dies nun dein letztes Leben. Du wirst zum Buddha werden und ins Nirwana eingehen und eins mit der multiversalen Zeitlosigkeit sein. Der Augenblick und die Ewigkeit verschmelzen zu einem einzigen Moment puren Glücks, der dich in sich aufnimmt. Du wirst in einem Zustand höchster Extase und tiefstem Frieden schwelgen und dich mit einem Lächeln an deine früheren Leben erinnern, die alle dazu beitrugen, dich hier her zu bringen. Doch bedenke! Möglicherweise ist das Nirwana nur eine Auszeit, bevor du dich in die nächste Runde stürzt."
 }
