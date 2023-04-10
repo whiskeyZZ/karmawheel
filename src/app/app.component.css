@@ -1,0 +1,93 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /*background: radial-gradient(circle, #4fa1ee, #01071f);*/
+  text-align: center;
+  width: 100%;
+  padding: 0;
+  border: none;
+  overflow: hidden;
+}
+
+h1 {
+  font-family: "Samarkan", sans-serif;
+  font-size: 60pt;
+  text-align: center;
+  color: #01071f;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+p {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  color: aqua;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 0;
+  overflow: hidden;
+  font-size: 20pt;
+}
+
+.hide {
+  opacity: 0;
+  transition: opacity 500ms ease-in-out;
+}
+
+.show {
+  opacity: 1;
+  transition: opacity 800ms ease-in-out;
+}
+
+.answers {
+  width: 100%;
+  margin-top: 10pt;
+  font-size: 18pt;
+  color: #01071f;
+}
+
+.answers:hover {
+  color: #ffffff;
+  cursor: grab;
+}
+
+.image {
+  width: 20%;
+  overflow: hidden;
+  margin: 10pt;
+  transition: transform 0.75s;
+}
+
+.rotate {
+  transform: rotate(360deg);
+}
+
+.start_btn {
+  background-color: #000000;
+  border: 2px solid #1a1a1a;
+  border-radius: 15px;
+  color: #ffffff;
+  font-size: 16pt;
+  margin: 10pt;
+  width: 100pt;
+  overflow: hidden;
+}
+
+.start_btn:disabled {
+  pointer-events: none;
+}
+
+.start_btn:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+  transform: translateY(-2px);
+  background-color: #ffffff;
+  color: rgba(0, 0, 0);
+}
+
+.start_btn:active {
+  box-shadow: none;
+  transform: translateY(0);
+}

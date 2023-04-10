@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: "Samarkan";
+  src: url("./assets/SamarkanNormal-Gg5D.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Samarkan", sans-serif;
+  margin: 0pt;
+  padding: 0pt;
+  /*background: radial-gradient(closest-side, #4fa1ee, #01071f);*/
+  background-image: url("./assets/background_2.jpeg");
+  background-size: 100%;
+}

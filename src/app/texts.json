@@ -1,0 +1,23 @@
+{
+  "welcome": "Willkommen im Karma Rad! Seit vielen vielen Leben befindest du dich im Rad der Wiedergeburten, inmitten von, wie die Buddhisten sagen, Samsara. Hast du dich je gefragt, als was du dein nächstes Leben leben wirst? Beantworte die Fragen und finde es heraus! Das Karm-O-Meter täuscht sich nie!",
+  "questions": [
+    {
+      "question": "Du wagst es, das 1. Gebot zu brechen und malst ein Bild von Gott. Was malst du?",
+      "answer": [
+        "Einen alten bärtigen Mann auf einem Thron",
+        "Zeus",
+        "Eine schwarze Frau",
+        "Den Nachthimmel"
+      ]
+    },
+    {
+      "question": "Luzifer persönlich bietet dir alle Reichtümer und alle Vergnügungen der Welt im Austausch gegen deine Seele. Wie reagierst du?",
+      "answer": [
+        "Zur Hölle Ja! Wo unterschreibe Ich?",
+        "Ich habe einen schweren Kampf mit meinem Gewissen, doch am Ende erliege ich der Versuchung",
+        "Meine Seele ist für das Gute bestimmt. Der Teufel hat keine Macht über mich",
+        "Ich lache ihn aus und zeige ihm den Mittelfinger"
+      ]
+    }
+  ]
+}
